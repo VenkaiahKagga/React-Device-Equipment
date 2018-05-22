@@ -1,0 +1,14 @@
+[
+    { "EquipmentName" : "Equipment A", "_id" : "01001" },
+    { "EquipmentName" : "Equipment B", "_id" : "01002" },
+    { "EquipmentName" : "Equipment C", "_id" : "01003" },
+    { "EquipmentName" : "Equipment D", "_id" : "01004" },
+    { "EquipmentName" : "Equipment E", "_id" : "01005" },
+    { "EquipmentName" : "Equipment F", "_id" : "01006" },
+    { "EquipmentName" : "Equipment G", "_id" : "01007" },
+    { "EquipmentName" : "Equipment H", "_id" : "01008" },
+    { "EquipmentName" : "Equipment I", "_id" : "01009" },
+    { "EquipmentName" : "Equipment J", "_id" : "01010" },
+    { "EquipmentName" : "Equipment K", "_id" : "01011" },
+    { "EquipmentName" : "Equipment L", "_id" : "01012" }
+]
